@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Seminar03.CS\TaskEGE_01\obj\Debug\net6.0\TaskEGE_01.GlobalUsings.g.cs
+C:\Users\user\Desktop\Seminar03.CS\TaskEGE_01\obj\Debug\net6.0\TaskEGE_01.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar03.CS\TaskEGE_01\obj\Debug\net6.0\TaskEGE_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar03.CS\TaskEGE_01\obj\Debug\net6.0\TaskEGE_01.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar03.CS\TaskEGE_01\obj\Debug\net6.0\TaskEGE_01.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar03.CS\TaskEGE_01\obj\Debug\net6.0\TaskEGE_01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar03.CS\TaskEGE_01\bin\Debug\net6.0\TaskEGE_01.exe
+C:\Users\user\Desktop\Seminar03.CS\TaskEGE_01\bin\Debug\net6.0\TaskEGE_01.deps.json
+C:\Users\user\Desktop\Seminar03.CS\TaskEGE_01\bin\Debug\net6.0\TaskEGE_01.runtimeconfig.json
+C:\Users\user\Desktop\Seminar03.CS\TaskEGE_01\bin\Debug\net6.0\TaskEGE_01.dll
+C:\Users\user\Desktop\Seminar03.CS\TaskEGE_01\bin\Debug\net6.0\ref\TaskEGE_01.dll
+C:\Users\user\Desktop\Seminar03.CS\TaskEGE_01\bin\Debug\net6.0\TaskEGE_01.pdb
+C:\Users\user\Desktop\Seminar03.CS\TaskEGE_01\obj\Debug\net6.0\TaskEGE_01.dll
+C:\Users\user\Desktop\Seminar03.CS\TaskEGE_01\obj\Debug\net6.0\ref\TaskEGE_01.dll
+C:\Users\user\Desktop\Seminar03.CS\TaskEGE_01\obj\Debug\net6.0\TaskEGE_01.pdb
+C:\Users\user\Desktop\Seminar03.CS\TaskEGE_01\obj\Debug\net6.0\TaskEGE_01.genruntimeconfig.cache
