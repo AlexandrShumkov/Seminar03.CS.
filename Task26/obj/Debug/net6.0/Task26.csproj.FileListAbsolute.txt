@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Seminar03.CS\Task26\obj\Debug\net6.0\Task26.GlobalUsings.g.cs
+C:\Users\user\Desktop\Seminar03.CS\Task26\obj\Debug\net6.0\Task26.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar03.CS\Task26\obj\Debug\net6.0\Task26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar03.CS\Task26\obj\Debug\net6.0\Task26.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar03.CS\Task26\obj\Debug\net6.0\Task26.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar03.CS\Task26\obj\Debug\net6.0\Task26.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar03.CS\Task26\bin\Debug\net6.0\Task26.exe
+C:\Users\user\Desktop\Seminar03.CS\Task26\bin\Debug\net6.0\Task26.deps.json
+C:\Users\user\Desktop\Seminar03.CS\Task26\bin\Debug\net6.0\Task26.runtimeconfig.json
+C:\Users\user\Desktop\Seminar03.CS\Task26\bin\Debug\net6.0\Task26.dll
+C:\Users\user\Desktop\Seminar03.CS\Task26\bin\Debug\net6.0\ref\Task26.dll
+C:\Users\user\Desktop\Seminar03.CS\Task26\bin\Debug\net6.0\Task26.pdb
+C:\Users\user\Desktop\Seminar03.CS\Task26\obj\Debug\net6.0\Task26.dll
+C:\Users\user\Desktop\Seminar03.CS\Task26\obj\Debug\net6.0\ref\Task26.dll
+C:\Users\user\Desktop\Seminar03.CS\Task26\obj\Debug\net6.0\Task26.pdb
+C:\Users\user\Desktop\Seminar03.CS\Task26\obj\Debug\net6.0\Task26.genruntimeconfig.cache
