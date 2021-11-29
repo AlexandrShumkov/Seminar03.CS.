@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Seminar03.CS\Task46\obj\Debug\net6.0\Task46.GlobalUsings.g.cs
+C:\Users\user\Desktop\Seminar03.CS\Task46\obj\Debug\net6.0\Task46.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar03.CS\Task46\obj\Debug\net6.0\Task46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar03.CS\Task46\obj\Debug\net6.0\Task46.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar03.CS\Task46\obj\Debug\net6.0\Task46.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar03.CS\Task46\obj\Debug\net6.0\Task46.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar03.CS\Task46\bin\Debug\net6.0\Task46.exe
+C:\Users\user\Desktop\Seminar03.CS\Task46\bin\Debug\net6.0\Task46.deps.json
+C:\Users\user\Desktop\Seminar03.CS\Task46\bin\Debug\net6.0\Task46.runtimeconfig.json
+C:\Users\user\Desktop\Seminar03.CS\Task46\bin\Debug\net6.0\Task46.dll
+C:\Users\user\Desktop\Seminar03.CS\Task46\bin\Debug\net6.0\ref\Task46.dll
+C:\Users\user\Desktop\Seminar03.CS\Task46\bin\Debug\net6.0\Task46.pdb
+C:\Users\user\Desktop\Seminar03.CS\Task46\obj\Debug\net6.0\Task46.dll
+C:\Users\user\Desktop\Seminar03.CS\Task46\obj\Debug\net6.0\ref\Task46.dll
+C:\Users\user\Desktop\Seminar03.CS\Task46\obj\Debug\net6.0\Task46.pdb
+C:\Users\user\Desktop\Seminar03.CS\Task46\obj\Debug\net6.0\Task46.genruntimeconfig.cache
